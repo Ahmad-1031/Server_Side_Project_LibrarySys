@@ -25,21 +25,12 @@
 ###Add Book
 <img width="1920" height="908" alt="Screenshot 2026-09-14 222810" src="https://github.com/user-attachments/assets/4bd1b81a-bfed-4e92-af56-17364014b8cc" />
 
-###Update Book
+### Update Book
+
+<img width="1920" height="946" alt="Screenshot 2026-09-14 222923" src="https://github.com/user-attachments/assets/73fe27f1-a6db-4988-a850-e9be0cd7d43a" />
+
+### Remove Book
+
+<img width="1920" height="941" alt="Screenshot 2026-09-14 223103" src="https://github.com/user-attachments/assets/dbab1ec6-6b71-4500-8432-b2511b98399f" />
 
 
-
-
-
-###
-
-
-
-
-### Library System
-
-![Library System](screenshots/library.png)
-
-### Login Page
-
-![Login Page](screenshots/login.png)
