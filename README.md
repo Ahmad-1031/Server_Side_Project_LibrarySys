@@ -19,6 +19,17 @@
 ### Loan Book
 
 <img width="1920" height="908" alt="Screenshot 2026-09-14 221955" src="https://github.com/user-attachments/assets/6aea1712-ea1d-475d-89e5-262fb0190fbf" />
+<img width="1920" height="912" alt="Screenshot 2026-09-14 222407" src="https://github.com/user-attachments/assets/38068fa8-daf3-4729-9227-784974fd7f04" />
+<img width="1920" height="905" alt="Screenshot 2026-09-14 222443" src="https://github.com/user-attachments/assets/6e500bb2-9648-4a0d-ac51-65435bcbdeec" />
+
+###Add Book
+<img width="1920" height="908" alt="Screenshot 2026-09-14 222810" src="https://github.com/user-attachments/assets/4bd1b81a-bfed-4e92-af56-17364014b8cc" />
+
+###Update Book
+
+
+
+
 
 ###
 
